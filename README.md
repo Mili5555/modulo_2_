@@ -16,3 +16,5 @@ El proyecto propone aprovechar las semillas provenientes de los subproductos de 
 Las herramientas de IA se utilizaron como apoyo para recopilar antecedentes científicos, analizar información técnica, estructurar los capítulos del informe y desarrollar aspectos como el planteamiento del problema, la justificación, los objetivos y el estudio preliminar del mercado.
 
 **El propósito fue integrar la Inteligencia Artificial al proceso de elaboración de un proyecto de ingeniería**, fortaleciendo la capacidad de investigación, el análisis crítico y la comunicación técnica, bajo un enfoque de sostenibilidad, economía circular y aprovechamiento de recursos regionales.
+
+[📄 Ver informe: Aceite y Harina de Pepita de Uva](https://github.com/Mili5555/modulo_2/blob/main/aceite-y-harina-de-pepita-de-uva.pdf)
